@@ -1,0 +1,28 @@
+.card-list{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 3%;
+    row-gap: 25px;
+    background-image: linear-gradient(to left,gold,purple);
+}
+
+.read-more{
+    cursor: pointer;
+}
+
+.add-cart-container{
+    /* background-color: purple; */
+    background-image: linear-gradient(to left,gold,purple);
+    color: white;
+    height: 100vh;
+}
+
+.additem-container{
+    border-width: 5px ;
+    border-style: solid;
+}
+
+.Cart-header{
+    background-image: linear-gradient(to left,gold,purple);
+    border-bottom: 10px solid silver;
+}
