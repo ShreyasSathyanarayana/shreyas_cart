@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shreyas_cart/static/css/main.2d2d2699.css",
+    "main.js": "/shreyas_cart/static/js/main.da648e00.js",
+    "static/js/787.8eb42f38.chunk.js": "/shreyas_cart/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/shreyas_cart/index.html",
+    "main.2d2d2699.css.map": "/shreyas_cart/static/css/main.2d2d2699.css.map",
+    "main.da648e00.js.map": "/shreyas_cart/static/js/main.da648e00.js.map",
+    "787.8eb42f38.chunk.js.map": "/shreyas_cart/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2d2699.css",
+    "static/js/main.da648e00.js"
+  ]
+}
